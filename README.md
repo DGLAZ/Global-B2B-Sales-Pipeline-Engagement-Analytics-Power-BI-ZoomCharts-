@@ -1,4 +1,4 @@
-New Project: Global B2B Sales Pipeline & Engagement Analytics (Power BI + ZoomCharts)
+### New Project: Global B2B Sales Pipeline & Engagement Analytics (Power BI + ZoomCharts)
 
 I recently completed a full end‑to‑end analytics project focused on transforming a complex **global B2B sales pipeline dataset** into a clear, interactive, and decision‑ready **Power BI report**.  
 The goal was to help sales leaders, account executives, and business stakeholders understand pipeline health, deal progression, and client engagement at a glance.
